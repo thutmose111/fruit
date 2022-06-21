@@ -1,0 +1,102 @@
+body{
+    background-color: black;
+}
+
+.name{
+    color: white;
+}
+
+.navbar{
+    display: flex;
+
+}
+
+
+.home{
+    padding-left: 58rem;
+    display: flex;
+    color: white;
+}
+.about{
+    display: flex;
+    padding-left: 4rem;
+    color: white;
+}
+.contact{
+    display: flex;
+    padding-left: 4rem;
+    color: white;
+}
+.email{
+    display: flex;
+    padding-left: 4rem;
+    color: white;
+}
+.intro{
+    color: white;
+    font-size: 60px;
+}
+.info{
+    color: white;
+    font: size 40px;
+    font-weight: 900;
+}
+.services{
+    color: white;
+;
+}
+.span{
+    color: white;
+    font-style: inherit;
+    font-size: xx-large;
+    background-color: olive;
+}
+.pic{
+    width: 600px;
+    padding-left: 28rem;
+    font-size: large;
+}
+.btn{
+    background-color: darkgoldenrod;
+
+}
+.fo{
+    background-color: lightblue;
+}
+
+
+
+/* Extra small devices (phones, 600px and down) */
+
+.STUD{
+    background-color: white;
+    font-style: italic;
+    font-weight: 500;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.pro{
+
+    color: cyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: 600;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
